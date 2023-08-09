@@ -1,0 +1,9 @@
+TRUNCATE Auth;
+TRUNCATE categorie;
+TRUNCATE EstExpert;
+TRUNCATE emprunte;
+TRUNCATE demande_envoyee;
+TRUNCATE reservation;
+TRUNCATE objet;
+TRUNCATE groupe;
+TRUNCATE appartient;
