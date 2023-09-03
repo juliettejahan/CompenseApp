@@ -1,0 +1,5 @@
+Django==4.2.4
+django-money==3.2
+djangorestframework==3.14
+django-extensions==3.2.3
+django-filter==23.2
